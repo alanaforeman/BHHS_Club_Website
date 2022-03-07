@@ -3,7 +3,7 @@ Coded by Alana Foreman and Sofia Cobos on behalf of the Students who Code club.
 
 For updates, please contact:
 
-Curious to see how this website was coded? Visit the Github link: 
+Curious to see how this website was coded? Visit the Github link: https://github.com/alanaforeman/BHHS_Club_Website
 
 To add a club page, please duplicate the generic.html file and rename. Edit club information under the "main" comment where there is generic text, and add any media. Include a description of the club, meeting location/dates/times, a Google Classrom code, and the name/email of the advisor/president(s) to contact. 
 
